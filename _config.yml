@@ -1,8 +1,8 @@
 remote_theme: b2a3e8/jekyll-theme-console
 
-title: man -s 7 ideas
+title: "man -s 7 ideas"
 
-header_pages:
+header_pages: 
   - index.md
   - about.md
 
