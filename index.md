@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: man -s 7 ideas
 ---
 
 Coming Soon!
